@@ -1,4 +1,5 @@
 # Industrial_Motion_Classifier. 
+https://studio.edgeimpulse.com/public/243432/latest/validation
 It's classify the motion and vibration data from a stand fan. This is to mimic using embedded machine learning in an industrial environment. We want to be able to determine if a machine is off, on, low, high, anomaly, etc.
 1-first of all Make sure that your phone shows up in the Edge Impulse devices list.
 2-Attach the phone to the machine as best as you can and leave space so you can access your screen
